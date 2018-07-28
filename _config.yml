@@ -55,8 +55,7 @@ education:
    school: Dundalk Institute of Technology
 
 #List of interesting Github repo/projects to include - optional
-github:
- - http://www.codo.net.au/
+github: 
 
 #Stackoverflow flair is optional
 stackoverflow:
