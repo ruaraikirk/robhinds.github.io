@@ -69,7 +69,7 @@ coursera:
 
 #List of interesting Github repo/projects to include - optional
 github: 
-# - robhinds/learning-neural-networks
+ - ruaraikirk/main_project_repo
 
 #Stackoverflow flair is optional
 #stackoverflow:
