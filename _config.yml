@@ -55,7 +55,8 @@ education:
    school: Dundalk Institute of Technology
 
 #List of interesting Github repo/projects to include - optional
-#github: 
+github: 
+ - robhinds/learning-neural-networks
 
 #Stackoverflow flair is optional
 #stackoverflow:
