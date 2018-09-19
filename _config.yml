@@ -16,11 +16,12 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Python
- - HTML
- - CSS
  - Java
  - C#
  - .NET
+ - HTML
+ - CSS
+ - Visual Studio
  - Android Studio
  - PyCharm
  - GitHub
