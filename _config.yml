@@ -84,6 +84,7 @@ coursera:
 github: 
  - ruaraikirk/CoDO
  - ruaraikirk/Python
+ - ruaraikirk/gatsby-starter-netlify-cms
 
 #Stackoverflow flair is optional
 #stackoverflow:
