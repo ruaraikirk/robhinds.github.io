@@ -15,17 +15,20 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Python
- - Java
  - C#
  - ASP.NET
  - HTML
  - CSS
+ - JavaScript
+ - React
+ - Python
+ - Java
  - Visual Studio
+ - VSCode
  - Android Studio
  - PyCharm
  - GitHub
- - Eclipse IDE
+ - Eclipse
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
@@ -36,7 +39,7 @@ roles:
    start: 2019
    end: Ongoing
    employer: SAP
-   description: Six month internship utilising full stack technologies such as JavaScript, AngularJS and MongoDB, to name but a few.
+   description: Six month internship with a focus on web development utilising technologies such as HTML, CSS, JavaScript, React, Gatsby and Netlify, to name but a few.
  - title: Consultant Engineer
    start: 2016
    end: 2018
