@@ -90,6 +90,7 @@ github:
  - ruaraikirk/gatsby-starter-netlify-cms
  - ruaraikirk/file-read-browser
  - ruaraikirk/multithreaded-socket-server
+ - ruaraikirk/gatsby-starter-dimension
 
 #Stackoverflow flair is optional
 #stackoverflow:
