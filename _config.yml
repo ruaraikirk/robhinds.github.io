@@ -15,31 +15,31 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - C#
- - ASP.NET
  - HTML
  - CSS
  - JavaScript
  - React
- - Python
- - Java
- - Visual Studio
- - VSCode
- - Android Studio
- - PyCharm
- - GitHub
- - Eclipse
+ - Jenkins
+ - Git
+ - C#
+ - ASP.NET
+ - TypeScript
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default?alt=rss
 
 #Work experience is required
 roles:
- - title: iXp Software Developer
+ - title: Software Developer
    start: 2019
    end: Ongoing
+   employer: Continuous Software Ltd.
+   description: Currently working as a Front-End Developer on Continuous Software’s flagship product for use in project management, 'aangine', developed specifically for the management of project portfolios (also known as Project Portfolio Management or PPM). Working within an Agile development environment utilising technologies including JS (React, Redux, NPM, Docker & Jenkins) and leveraging industry standard tools such as WebStorm, GitLab, Jira and Slack. I also had the opportunity to work on a performance testing and optimisation project carried out with the Saudi Commission for Tourism and National Heritage (SCTH), as part of their major development of a new eVisa platform, where tourist visa applications are streamlined globally for the Kingdom.
+ - title: Software Developer
+   start: 2019
+   end: 2019
    employer: SAP
-   description: Six month internship with a focus on web development utilising technologies such as HTML, CSS, JavaScript, React, Gatsby and Netlify, to name but a few.
+   description: Six month internship with a focus on web development utilising technologies such as HTML, CSS, JavaScript, React, GatsbyJS and Netlify, to name but a few. Also worked on an interesting prototyping project developing VSCode extensions for fellow developers within the company.
  - title: Consultant Engineer
    start: 2016
    end: 2018
@@ -91,6 +91,7 @@ github:
  - ruaraikirk/file-read-browser
  - ruaraikirk/multithreaded-socket-server
  - ruaraikirk/gatsby-starter-dimension
+ - ruaraikirk/MotorcycleNewb
 
 #Stackoverflow flair is optional
 #stackoverflow:
@@ -105,4 +106,4 @@ github:
 #   description: A basic early Android app (open sourced)
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo: | Interests include motorcycles, food and travel. References available on request
