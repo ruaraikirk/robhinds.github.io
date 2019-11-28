@@ -15,10 +15,11 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - HTML
- - CSS
+ - HTML5
+ - CSS3
  - JavaScript
  - React
+ - Redux
  - Jenkins
  - Git
  - C#
@@ -86,12 +87,12 @@ coursera:
 #List of interesting Github repo/projects to include - optional
 github: 
  - ruaraikirk/CoDO
- - ruaraikirk/Python
+ - ruaraikirk/MotorcycleNewb
  - ruaraikirk/gatsby-starter-netlify-cms
  - ruaraikirk/file-read-browser
  - ruaraikirk/multithreaded-socket-server
  - ruaraikirk/gatsby-starter-dimension
- - ruaraikirk/MotorcycleNewb
+ - ruaraikirk/Python
 
 #Stackoverflow flair is optional
 #stackoverflow:
